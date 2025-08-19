@@ -655,6 +655,136 @@ class MyHome extends Component {
                                     <td>37,500</td>
                                     <td></td>
                                 </tr>
+                                <tr>
+                                    <td>63</td>
+                                    <td>HP CP1525n, CP1525nw, MFP CM1415fn, CM1415fnw</td>
+                                    <td>128A Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>64</td>
+                                    <td>HP MFP M176, 176N, M177, 177FW</td>
+                                    <td>130A/350 Full Set</td>
+                                    <td>5,000</td>
+                                    <td>5,500</td>
+                                    <td>6,000</td>
+                                    <td>31,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>65</td>
+                                    <td>HP M252, 252n, 252dw, m277n, 277dw, 201</td>
+                                    <td>201A Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>37,900</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>66</td>
+                                    <td>HP M254dw, M254nw</td>
+                                    <td>202A Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>33,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>67</td>
+                                    <td>HP M254dw, M254nw, MFP M280nw, M281fdn, M281fdw, LBP 623cdw</td>
+                                    <td>203A/054 Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>34,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>68</td>
+                                    <td>Cano MF 643Cdn</td>
+                                    <td>054 Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>69</td>
+                                    <td>HP MFP M180n, M181fw</td>
+                                    <td>204A Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>24,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>70</td>
+                                    <td>HP Color LaserJet Pro M255dw, M282, M283fdw (206A with Chip 12000/- set)</td>
+                                    <td>206A (Without Chip)</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>32,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>71</td>
+                                    <td>HP N251 nw, Mfp m276nw</td>
+                                    <td>210A/211A/ 212A/213A</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>72</td>
+                                    <td>HP M155a, MFP M182n, MFP M183FW (215A With Chip- 14000/-)</td>
+                                    <td>215A Set (No Chip)</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>8,500</td>
+                                    <td>25,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>73</td>
+                                    <td>HP 1000, 1200, 1300, 2020, 2024, 2025, 2026, 2027, 2024n, 2024dn, 2025n, 2025dn, 2025x, 2026n, 2026dn, 2320, 7200, 7660cdn, 8380cdw	</td>
+                                    <td>304A/118/318/418/718</td>
+                                    <td>7,500</td>
+                                    <td>8,500</td>
+                                    <td>9,500</td>
+                                    <td>42,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>74</td>
+                                    <td>HP 400, M351, M451ndw, M375ndw, M451ndw</td>
+                                    <td>305A Full Set</td>
+                                    <td>6,000</td>
+                                    <td>7,000</td>
+                                    <td>8,000</td>
+                                    <td>42,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>75</td>
+                                    <td>HP 1411fn, 1412fn, 1413fn, 1415fn, 1415fnw, 416fw, 1417fnw, 1418fnw, 1521, 1522, 1523, 1225nw, 1526nw, 1527nw, 1528nw</td>
+                                    <td>320A/321A, 322A/ 323A</td>
+                                    <td>7,500</td>
+                                    <td>8,500</td>
+                                    <td>9,500</td>
+                                    <td>23,000</td>
+                                    <td></td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
