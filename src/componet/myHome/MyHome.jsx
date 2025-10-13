@@ -1537,6 +1537,544 @@ class MyHome extends Component {
                                     <td>Call</td>
                                     <td></td>
                                 </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>HL- 2040, 2070n, DCP-7010, MFC-7420, 7820n, 7220, Fax-2820</td>
+                                    <td>TN-2025</td>
+                                    <td>1,200</td>
+                                    <td>1,400</td>
+                                    <td>1,800</td>
+                                    <td>5,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>HL- 2240, 2240nd, 2510dn, 2270dw, MFC-7360, 7860dw, DCP-7060d</td>
+                                    <td>TN-2280</td>
+                                    <td>900</td>
+                                    <td>1,200</td>
+                                    <td>1,500</td>
+                                    <td>3,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>HL – 5240, 5250dnt, 5340, 5350, 5380, 5270, 5280DW, MFC 8460n, 8860dn, DCP-8060, MF-8870, 8670</td>
+                                    <td>TN-3250</td>
+                                    <td>1,400</td>
+                                    <td>1,800</td>
+                                    <td>2,100</td>
+                                    <td>8,800</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Brother HL-1110, DCP-1510, MFC-1810, MFC-1815, DCP‐1610W, MFC‐1910W, HL-1210W</td>
+                                    <td>TN-1000 / TN-1050</td>
+                                    <td>1,000</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>3,200</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>HL – DCP8110dn, 8155dn, HL-5450dn, 5470dwt, 6180dwt, MFCB 510dn</td>
+                                    <td>TN-720</td>
+                                    <td>1,700</td>
+                                    <td>2,100</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>HL- L5500DN, DCP L5600DN, DCP L5650DN, HL L5000D, HL L5100DN, HL L5200DW, HL L5200DWT, HL L6200DW, HL L6200DWT, HL L6250DW, HL L6300DW, HL L6400DW, HL L6400DWT, MFC L5700DW, MFC L5800DW, MFC L5850DW, MFC L5900DW, MFC L6700DW, MFC L6750DW, MFC L6800DW, MFC L6900DW</td>
+                                    <td>TN-820/TN-850<br/>TN-3470/TN-3467</td>
+                                    <td>1,600</td>
+                                    <td>2,000</td>
+                                    <td>2,400</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>HL-L2320D, HL-L2365DW, MFC-L2700D, MFC-L2700DW, MFC-L2740DW, DCP-L2540W</td>
+                                    <td>TN-2305/630</td>
+                                    <td>1,200</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>3,400</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>HL – L2300D, 2340DW, 2380DW, DCP 2520DW, 2540DW, MFC 2700DW, 2720DW, 2740DW</td>
+                                    <td>TN-630/TN-2305</td>
+                                    <td>1,100</td>
+                                    <td>1,400</td>
+                                    <td>1,700</td>
+                                    <td>3,200</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>11</td>
+                                    <td>Brother TN-2260, HL 2240D, HL 2250DN</td>
+                                    <td>TN-2260</td>
+                                    <td>Call</td>
+                                    <td>3,000</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>12</td>
+                                    <td>HL-L2310D, HL-L2350DW, HL-L2370DN, HL-L2375DW, DCP-L2510D, DCP-L2530DW, MFC-L2710DN, MFC-L2710DW, MFC-L2730DW, MFC-L2750DW</td>
+                                    <td>TN-2410/2455</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>1,000</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>13</td>
+                                    <td>L5200DW, 5100DW, 6250DW, 6300DWT, 6400DW</td>
+                                    <td>TN-3469/TN-3480</td>
+                                    <td>1,800</td>
+                                    <td>2,200</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>14</td>
+                                    <td>L2335D, L2335DW, L2370DN</td>
+                                    <td>TN 2455/2405/ 2420/2460/2480</td>
+                                    <td>1,200</td>
+                                    <td>1,400</td>
+                                    <td>1,600</td>
+                                    <td>5,900</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>15</td>
+                                    <td>Brother HL-L3210CW, HL-L3270CDW, DCP-L3551CDW, DCP-L3510CDW, MFC-L3750CDW</td>
+                                    <td>TN-273/223/227</td>
+                                    <td>8,500</td>
+                                    <td>9,500</td>
+                                    <td>10,500</td>
+                                    <td>28,500</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>DELL Laser Printer Model</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>1130, 1130n, 1135</td>
+                                    <td>1130</td>
+                                    <td>1,300</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>2330</td>
+                                    <td>LD2330</td>
+                                    <td>3,300</td>
+                                    <td>3,500</td>
+                                    <td>3,800</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>B1160, B1160W, 116X, LD1160, B1160</td>
+                                    <td>B-1160</td>
+                                    <td>1,700</td>
+                                    <td>2,100</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>E310, 310dw, 514dw, 515dnf</td>
+                                    <td>310</td>
+                                    <td>1,200</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>B1260, B1260dn, B1265dnf</td>
+                                    <td>B1260d</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>1,800</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>EPSON Laser Printer Model</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>M1200</td>
+                                    <td>M1200</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>M2010</td>
+                                    <td>M2010</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>2,700</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>M6200, EPL6200, 6200N, 6200L</td>
+                                    <td>M6200</td>
+                                    <td>1,800</td>
+                                    <td>2,100</td>
+                                    <td>2,800</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>LEXMARK Laser Printer Model</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>E120</td>
+                                    <td>E120</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>2,100</td>
+                                    <td>10,700</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>E230, 232, 234, 240, 340, 342</td>
+                                    <td>E230</td>
+                                    <td>1,700</td>
+                                    <td>2,000</td>
+                                    <td>2,500</td>
+                                    <td>5,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>E260, 260dn, 260, 260d, 360dn, 460 (without Chip)</td>
+                                    <td>E260</td>
+                                    <td>2,100</td>
+                                    <td>2,500</td>
+                                    <td>2,800</td>
+                                    <td>6,700</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>E260, 360, 260d, 460, 460dn, 460dw, 460dtn, 250d, 250dn, 360, 360d, 360dn</td>
+                                    <td>E-260</td>
+                                    <td>3,300</td>
+                                    <td>3,400</td>
+                                    <td>3,800</td>
+                                    <td>6,500</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>XEROX Laser Printer Model</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>3117, 3122, 3124, 3125</td>
+                                    <td>3117</td>
+                                    <td>1,200</td>
+                                    <td>1,500</td>
+                                    <td>2,100</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>3150, 3250</td>
+                                    <td>3150/3250</td>
+                                    <td>1,700</td>
+                                    <td>2,100</td>
+                                    <td>2,500</td>
+                                    <td>4,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>3315, 3320, 3325</td>
+                                    <td>3320B</td>
+                                    <td>2,200</td>
+                                    <td>2,500</td>
+                                    <td>3,100</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>3121</td>
+                                    <td>3121</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>1,800</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>3140, 3155, 3160, 3140B</td>
+                                    <td>3140B</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>1,700</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Phaser 3020, 3025</td>
+                                    <td>P3020</td>
+                                    <td>1,400</td>
+                                    <td>1,600</td>
+                                    <td>1,800</td>
+                                    <td>3,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>3140, 3155, 3160</td>
+                                    <td>X-3360</td>
+                                    <td>2,000</td>
+                                    <td>2,300</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>Xerox- 3330, 3335, 3345</td>
+                                    <td>3330/3335</td>
+                                    <td>3,000</td>
+                                    <td>3,300</td>
+                                    <td>3,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>PANTUM Laser Printer Model</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Pantum P2500W, P2502W, M6500NW, M6550NW, M6552NW, M6600NW, M6602NW</td>
+                                    <td>P-210 Series</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>4,700</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>P3500DW</td>
+                                    <td>PB310EV</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>4,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>P3010D, P3010DW, P3300DN, P3300DW, M6700D, M6700DW, M7100DN, M7100DW, M6800FDW, M7200FD, M7200FDN, M7200FDW, M7300FDN, M7300FDW (Price TL- 410X 5,500/-)</td>
+                                    <td>TL-410/ TL-410X</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>3,300</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>P3500DN (Price 310X 8,000/-)</td>
+                                    <td>P -310</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>5,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>P3500DW</td>
+                                    <td>P -310H</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>6,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>P2200</td>
+                                    <td>P 210</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>4,700</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>P3100DL, P3255DN, P3500DN, P3500DW</td>
+                                    <td>PB 310EV</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>4,500</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>P2500, M6500, M6550, M6600</td>
+                                    <td>PC211</td>
+                                    <td>1,800</td>
+                                    <td>2,000</td>
+                                    <td>2,200</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>P3010D, P3010DW, P3300DN, P3300DW, M6700D, M6700DW, M7100DN, M7100DW, M6800FDW, M7200FD, M7200FDN, M7200FDW, M7300FDN, M7300FDW</td>
+                                    <td>DL-410 (Drum Unit)</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>FujiFilm Color Laser Printer</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Fujifilm Apeos C325dw, C325z</td>
+                                    <td>FujiFilm Apeos CMYK Four Color Toner Cartridge</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>24,000</td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                            <thead>
+                                <tr>
+                                    <th>SL</th>
+                                    <th>Walton Laser Printer</th>
+                                    <th>Toner Model</th>
+                                    <th>Economy Price China</th>
+                                    <th>Medium Price China</th>
+                                    <th>Best Price China</th>
+                                    <th>Original Toner Price</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>WALTON PRINTON PS22 series</td>
+                                    <td>TNR16</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>19,50</td>
+                                    <td></td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
