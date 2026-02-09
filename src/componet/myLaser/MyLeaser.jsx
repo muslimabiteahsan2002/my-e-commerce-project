@@ -331,6 +331,36 @@ class MyLeaser extends Component {
                                     <td>7,700</td>
                                     <td></td>
                                 </tr>
+                                <tr>
+                                    <td>32</td>
+                                    <td>HP P3005, M3027mfp, M3035mfp</td>
+                                    <td>51A</td>
+                                    <td>Call</td>
+                                    <td>2,200</td>
+                                    <td>Call</td>
+                                    <td>13,000</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>33</td>
+                                    <td>HP P3015, 3015d, 3015dn, LBP-6750dn</td>
+                                    <td>55A/324</td>
+                                    <td>1,800</td>
+                                    <td>2,200</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>34</td>
+                                    <td>HP 6830, 6820, 6220</td>
+                                    <td>55X</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td></td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
